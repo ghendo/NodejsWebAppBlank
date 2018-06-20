@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-web-app-blank",
+  "version": "0.0.0",
+  "description": "NodejsWebAppBlank",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
